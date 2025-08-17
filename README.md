@@ -19,9 +19,3 @@ This project is a Furniture E-Commerce Web Application that allows users to brow
 * Database: MySQL
 * Version Control: Git & GitHub
 
-
-
-
-
-
-👉 Would you like me to also **add a “Live Demo” section** (with Netlify/localhost link) so it looks ready for **hackathons and portfolio showcase**?
